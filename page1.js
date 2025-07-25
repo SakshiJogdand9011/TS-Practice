@@ -1,0 +1,11 @@
+var name1 = "Sakshi";
+console.log(name1);
+var num1 = 20;
+var num2 = 40;
+var num3 = 30;
+var total = num1 + num2 + num3;
+console.log(total);
+var oct = 4096;
+var hexa = 1;
+var binary = 0x0001;
+console.log(oct + 10);
