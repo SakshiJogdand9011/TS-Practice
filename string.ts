@@ -11,3 +11,10 @@ console.log(info);
 var num:number=100;
 //var data:string = num.toString();
 var data:string=" "+num;
+
+
+
+// null and undefined
+
+var data1: null = null;
+var val : undefined=undefined;       
